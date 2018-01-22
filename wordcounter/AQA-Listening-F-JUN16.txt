@@ -1,0 +1,90 @@
+
+2
+SA/Jun16/46301FT
+1 (a) M1 Che cosa compri oggi?
+ F1 Prendo la giacca e i jeans.
+1 (b) M1 Ti piacciono i colori?
+ F1 Sì, adoro questi colori: il rosa e il blu.
+2 Example
+ M1 Qual è la tua lezione preferita?
+ F1 È l’educazione fisica.
+2 (a) M1 Ti piace la matematica, Simona?
+ F1 No, per niente: detesto la matematica. È troppo difficile.
+2 (b) M1 Che cosa pensi dell’informatica?
+ F1 L’informatica a volte mi piace e a volte no.
+2 (c) M1 Qual è la tua materia preferita, Simona?
+ F1 Beh, preferisco il disegno. È la mia materia preferita perché è molto creativo.
+3 (a) F1 Com’è casa tua, Rocco?
+ M1 Abito in una casa grande.
+3 (b) F1 Dove si trova esattamente?
+ M1 Fortunatamente, si trova in campagna.
+3 (c) M1 E tu, Nicoletta, dove abiti?
+ F1 Da poco tempo, abito in un appartamento moderno.
+3 (d) M1 Bene. Com’è la tua zona?
+ F1 L’appartamento si trova in una zona tranquilla.
+4 (a) F1 Pronto, Martino? Come stai?
+ M1 Ciao, sto male. Ho mal di denti.
+4 (b) F1 Mi dispiace.
+ M1 Purtroppo ho anche mal di testa.
+4 (c) F1 Povero te.
+ M1 In più, mi fa anche male il piede.
+3
+SA/Jun16/46301FT
+Turn over ▲
+5 (a) F2 Hai fratelli o sorelle, Andrea?
+ M2 Purtroppo, no. Sono figlio unico.
+5 (b) F2 Con chi vai più d’accordo in famiglia?
+ M2 In genere, vado molto d’accordo con mia madre.
+5 (c) F2 Come sono i tuoi genitori?
+ M2 I miei sono molto sportivi. Giochiamo sempre a pallavolo insieme.
+5 (d) F2 Che cosa ti piace fare nel tempo libero?
+ M2 Mi piace passare il tempo con i miei amici, o a casa o al parco.
+6 (a) M2 Che lavoro vorresti fare nel futuro, Rita?
+ F2 Dopo i miei studi, vorrei lavorare in teatro, magari come attrice. Recitare è la mia
+passione.
+6 (b) F2 E tu, Cristiano?
+ M2 Ho intenzione di lavorare per un giornale, come giornalista. Sono molto
+interessato alle notizie e mi piace parlare con la gente.
+6 (c) M2 E tu, Vittoria?
+ F1 Ho sempre voluto fare il vigile del fuoco. Non ho paura di rischiare la mia vita.
+Voglio aiutare gli altri e forse salvare la vita a qualcuno.
+7 Example
+ F2 C’è un bellissimo cinema all’aperto ma, purtroppo costa tanto.
+7 (a) F2 Abito in una bella città vicino al mare. La mia città è molto pittoresca con delle
+chiese antiche. Ho anche la fortuna di abitare vicino a un parco grandissimo.
+7 (b) F2 Purtroppo non c’è molto da fare per i giovani d’inverno. È abbastanza noioso, non
+c’è neanche un centro giovanile dove incontrare gli amici.
+7 (c) F2 Però, c’è una bella spiaggia. È vicinissima. Ci arrivo in cinque minuti. Tuttavia, in
+agosto la spiaggia è piena zeppa di turisti e non c’è posto per tutti. Odio questa
+confusione!
+7 (d) F2 Nella mia città c’è anche un bel mercato in piazza. Vado ogni sabato con mia
+sorella. Mi piace molto perché non costa tanto e si possono trovare braccialetti di
+tutti i tipi.
+4
+SA/Jun16/46301FT
+8 (a) M2 Ciao, Claudia. Che cosa fai tu per aiutare l’ambiente?
+ F2 Allora, ogni anno vado a pulire il mio quartiere con la mia scuola. Raccogliamo
+carta, plastica e vetro.
+8 (b) M2 Bravissima! Ma che cos’altro si potrebbe fare secondo te?
+ F2 Beh. Dovremmo usare tutti la bicicletta, non l’autobus.
+8 (c) M2 Perché pensi questo?
+ F2 Secondo me, perché è più veloce che andare a piedi. Inoltre si fa dell’esercizio
+fisico.
+9 Example
+ M2 Quando vai in vacanza, Sonia?
+ F2 Vado in vacanza in luglio.
+9 (a) M2 Dove vai di solito in vacanza?
+ F2 Sinceramente, mi piace andare molto lontano, per esempio negli Stati Uniti. È più
+interessante e divertente.
+9 (b) M2 Che cosa ti piace fare in vacanza?
+ F2 Amo visitare i musei. In più, mi piace anche mangiare in ristoranti diversi.
+10 (a) F3 La mia amica preferita, Melania, ha due conigli. Si chiamano Bianca e Fumetto.
+Bianca è grossa e Fumetto è piccolo. Li adora perché sono molto amichevoli con
+tutti.
+10 (b) F3 Melania ha i conigli da due anni. Li ha ricevuti come regalo di Natale dai suoi
+genitori. È stata una bella sorpresa!
+10 (c) F3 I conigli hanno bisogno di un giardino grande, ma quello di Melania è un po’ troppo
+piccolo. Perciò, vuole avere un giardino più grande. Così i conigli possono correre
+e stare all’aria aperta tutto il giorno.
+END OF TEST
+Copyright © 2016 AQA and its licensors. All rights reserved.
