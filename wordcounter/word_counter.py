@@ -6,7 +6,7 @@ import csv
 
 directory = raw_input("Directory of files to analyse: ")
 if directory == "":
-    directory = "C:/Users/jacob/OneDrive/Documents/GitHub/school-scripts/wordcounter"
+    directory = "C:/Users/jacob/OneDrive/Documents/GitHub/school-scripts/wordcounter/test_files"
 
 text = []
 

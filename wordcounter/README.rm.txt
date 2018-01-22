@@ -1,12 +1,8 @@
-------
-README
-------
+##README
 
 Python script that analyses GCSE papers for word frequency.
 
--------------
-Instructions:
--------------
+###Instructions:
 
 1) Open any exam file you want to analyse the word-count of. 
 
@@ -19,3 +15,5 @@ Instructions:
  f) repeat all the above steps for any other files you wish to analyse
  
 3) Execute python file, inputting directory of saved text files
+
+4) Optionally, save results as a csv ('excel' file)
